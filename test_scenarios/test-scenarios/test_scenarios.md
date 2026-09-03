@@ -30,7 +30,7 @@
 | TS014 | Verify customer can view account history       | High     |
 | TS015 | Verify customer can update contact information | Medium   |
 
-## Fund Transfers
+## Transfer Funds 
 
 | ID    | Test Scenario                                            | Priority |
 | ----- | -------------------------------------------------------- | -------- |
@@ -66,3 +66,22 @@
 | ----- | ----------------------------------------- | -------- |
 | TS031 | Verify customer can submit a loan request | High     |
 | TS032 | Verify loan request validation            | High     |
+
+## Find Transactions 
+
+| ID    | Test Scenario                                   | Priority |
+|------ | ------------------------------------------------| -------- |
+| TS033 | verify correct and available account selected   | High     |
+| TS034 | Verify transaction by Id that is exists         | High     |
+| TS035 | verify date                                     | High     |
+| TS036 | verify find date by range                       | Low      |
+| Ts037 | verify amount                                   | Low      |
+
+## Open New Account 
+
+| ID    | Test Scenario                                   | Priority |
+|------ | ------------------------------------------------| -------- |
+| TS038 | verify type of account                          | High     |
+| TS039 | verify minimum amount is deposited              | High     |
+| TS040 | verify existing account for deposit             | High     |
+
